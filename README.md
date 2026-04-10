@@ -33,9 +33,7 @@ de código. Experiencia con metodologías ágiles (Scrum) y trabajo en equipo.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ---
-
-![Trofeos](https://github-profile-trophy.vercel.app/?username=jonatanajanel&theme=tokyonight&no-frame=true&row=1)
-
+![Quote](https://quotes-readme.vercel.app/api/quote?theme=dark)
 ---
 
 ## 🚀 Proyectos destacados
