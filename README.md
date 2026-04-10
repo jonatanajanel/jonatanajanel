@@ -33,9 +33,6 @@ de código. Experiencia con metodologías ágiles (Scrum) y trabajo en equipo.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ---
-![Quote](https://quotes-readme.vercel.app/api/quote?theme=dark)
-
----
 
 ## 🚀 Proyectos destacados
 
