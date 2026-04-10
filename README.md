@@ -43,10 +43,6 @@ de código. Experiencia con metodologías ágiles (Scrum) y trabajo en equipo.
 | ☁️ Arquitectura AWS | Sistema distribuido en la nube con monitoreo | AWS, Docker, Grafana |
 
 ---
-
-## 📊 Mis estadísticas
-![Quote](https://quotes-readme.vercel.app/api/quote?theme=dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true)
 
 ---
