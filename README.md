@@ -1,24 +1,13 @@
-<h1 align="center">Hola, qué tal 👋</h1>
+# Hola, soy Jonatan Ajanel 👋
+### Full Stack Developer Jr | Guatemala 🇬🇹
 
----
-Soy **Jonatan Ajanel Desarrollador Full Stack Jr** con experiencia en el diseño e implementación de aplicaciones web. Cuento con conocimientos en desarrollo 
-de software y gestión de bases de datos, enfocado en la creación de soluciones eficientes y escalables mediante arquitecturas robustas, 
-aplicando buenas prácticas de seguridad y calidad de código. Tengo experiencia en el uso de metodologías ágiles como Scrum, así como habilidades 
-para el trabajo en equipo y adaptación a entornos dinámicos.
-
----
-
-## 📌 Proyectos destacados
-- 🤖 **Chatbot de atención al cliente y ventas vía WhatsApp**
-- 🧾 **Sistema web para gestión de evidencias** (ASP.NET Core + SQL Server)
-- ☁️ **Arquitectura distribuida en AWS** con Docker y Grafana
+Desarrollador Full Stack con experiencia en diseño e implementación de aplicaciones web. 
+Enfocado en soluciones eficientes y escalables con buenas prácticas de seguridad y calidad 
+de código. Experiencia con metodologías ágiles (Scrum) y trabajo en equipo.
 
 ---
 
-- ## 🛠️ Tecnologías y herramientas
-### Lenguajes
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+## 🛠️ Tecnologías y herramientas
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -34,23 +23,42 @@ para el trabajo en equipo y adaptación a entornos dinámicos.
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 ### Bases de datos
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🤖 Chatbot WhatsApp | Atención al cliente y ventas vía WhatsApp | Node.js, WhatsApp API |
+| 🧾 Sistema de evidencias | Gestión y control de evidencias web | ASP.NET Core, SQL Server |
+| ☁️ Arquitectura AWS | Sistema distribuido en la nube con monitoreo | AWS, Docker, Grafana |
+
+---
+
+## 📊 Mis estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Contacto
-- 📧 **Email:** jonatanajanel2002@gmail.com  
-- 🌎 **País:** Guatemala
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatan-misael-ajanel-gonz%C3%A1lez-8a0985299/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jonatanajanel2002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jonatanajanel)
 
 ---
 
-- ⭐ *Gracias por visitar mi perfil. Siempre abierto a aprender y a nuevos retos.*
+⭐ Siempre abierto a aprender y nuevos retos.
