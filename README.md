@@ -34,6 +34,7 @@ de código. Experiencia con metodologías ágiles (Scrum) y trabajo en equipo.
 
 ---
 ![Quote](https://quotes-readme.vercel.app/api/quote?theme=dark)
+
 ---
 
 ## 🚀 Proyectos destacados
