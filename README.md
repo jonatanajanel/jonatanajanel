@@ -1,11 +1,10 @@
 <h1 align="center">Hola, qué tal 👋</h1>
 
 ---
-
-## 🙋‍♂️ Sobre mí
-Soy **Jonatan Ajanel**, estudiante de **Ingeniería en Sistemas de Información y Ciencias de la Computación** con **cierre de pensum**.  
-Me enfoco en el desarrollo de aplicaciones web, APIs y sistemas orientados a resolver problemas reales mediante soluciones eficientes y escalables.
-Me considero una persona proactiva, responsable y con facilidad para adaptarme a nuevas tecnologías y entornos de trabajo.
+Soy **Jonatan Ajanel Desarrollador Full Stack Jr** con experiencia en el diseño e implementación de aplicaciones web. Cuento con conocimientos en desarrollo 
+de software y gestión de bases de datos, enfocado en la creación de soluciones eficientes y escalables mediante arquitecturas robustas, 
+aplicando buenas prácticas de seguridad y calidad de código. Tengo experiencia en el uso de metodologías ágiles como Scrum, así como habilidades 
+para el trabajo en equipo y adaptación a entornos dinámicos.
 
 ---
 
