@@ -34,7 +34,7 @@ de código. Experiencia con metodologías ágiles (Scrum) y trabajo en equipo.
 
 ---
 
-![Trofeos](https://github-profile-trophy.vercel.app/?username=Tjonatanajanel&theme=tokyonight&no-frame=true&row=1)
+![Trofeos](https://github-profile-trophy.vercel.app/?username=jonatanajanel&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
